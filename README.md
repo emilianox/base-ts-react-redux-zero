@@ -67,23 +67,24 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Typescript](https://www.typescriptlang.org/) - JavaScript that scales.
+* [React](https://reactjs.org/) - A JavaScript library for building user interfaces
+* [Yarn](https://yarnpkg.com/en/) - FAST, RELIABLE, AND SECURE DEPENDENCY MANAGEMENT.
+* [Redux Zero](https://github.com/concretesolutions/redux-zero) - A lightweight state container based on Redux
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+<!-- Please read [CONTRIBUTING.md]() for details on our code of conduct, and the process for submitting pull requests to us. -->
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
+We use [Git Flow](https://github.com/nvie/gitflow) for versioning.
 
 ## Authors
 
-* **Billie Thompson** - _Initial work_ - [PurpleBooth](https://github.com/PurpleBooth)
+* **Emiliano Fernandez** - _Initial work_ -
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+<!-- See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project. -->
 
 ## License
 
